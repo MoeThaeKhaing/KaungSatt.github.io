@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="mystyle.css">
 </head>
 <body>
-<h1 align="center">***Company List***</h1>
+<h1 align="center">Company List</h1>
 <table class="tb" align="center" width="1024" cellpadding="0" cellspacing="0" bgcolor="gray">
 <tr>
  <td align="center" >
